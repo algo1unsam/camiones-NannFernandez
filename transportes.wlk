@@ -31,5 +31,4 @@ object motocicleta{
 	
 	var property cargaMax = 100
 	
-	
 }
